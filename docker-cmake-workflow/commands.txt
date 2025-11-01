@@ -1,0 +1,4 @@
+docker run --rm -v $(pwd):/work -w /work f401-blinky cmake -B build
+docker run --rm -v $(pwd):/work -w /work f401-blinky cmake --build build
+docker run --rm -v $(pwd):/work -w /work --device /dev/bus/usb:/dev/bus/usb f401-blinky cmake --build build --target flash
+docker run --rm -v $(pwd):/work -w /work f401-blinky bash -c "rm -rf build"
