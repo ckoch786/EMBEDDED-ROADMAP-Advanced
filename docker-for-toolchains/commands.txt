@@ -1,0 +1,5 @@
+docker build -t f401-blinky .
+docker run --rm -v $(pwd):/work -w /work f401-blinky make
+docker run --rm -v $(pwd):/work -w /work --device /dev/bus/usb:/dev/bus/usb f401-blinky make flash
+docker run --rm -v $(pwd):/work -w /work --device /dev/bus/usb:/dev/bus/usb f401-blinky make flash-elf
+docker run --rm -v $(pwd):/work -w /work f401-blinky make clean
