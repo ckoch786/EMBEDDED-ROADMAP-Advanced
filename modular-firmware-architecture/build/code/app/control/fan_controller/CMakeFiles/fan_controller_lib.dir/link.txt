@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfan_controller_lib.a CMakeFiles/fan_controller_lib.dir/src/fan_controller.c.o
+/usr/bin/ranlib libfan_controller_lib.a

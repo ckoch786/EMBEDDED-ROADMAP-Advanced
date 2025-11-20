@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhal_display_lib.a CMakeFiles/hal_display_lib.dir/src/hal_display.c.o CMakeFiles/hal_display_lib.dir/cfg/hal_display_cfg.c.o
+/usr/bin/ranlib libhal_display_lib.a

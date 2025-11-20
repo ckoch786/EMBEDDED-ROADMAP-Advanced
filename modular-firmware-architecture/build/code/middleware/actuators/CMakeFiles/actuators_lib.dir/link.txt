@@ -1,0 +1,2 @@
+/usr/bin/ar qc libactuators_lib.a CMakeFiles/actuators_lib.dir/src/actuators.c.o CMakeFiles/actuators_lib.dir/cfg/actuators_cfg.c.o
+/usr/bin/ranlib libactuators_lib.a

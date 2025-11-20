@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhal_temp_sensor_lib.a CMakeFiles/hal_temp_sensor_lib.dir/src/hal_temp_sensor.c.o CMakeFiles/hal_temp_sensor_lib.dir/cfg/hal_temp_sensor_cfg.c.o
+/usr/bin/ranlib libhal_temp_sensor_lib.a

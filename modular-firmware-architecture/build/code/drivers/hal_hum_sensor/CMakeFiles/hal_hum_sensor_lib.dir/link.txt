@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhal_hum_sensor_lib.a CMakeFiles/hal_hum_sensor_lib.dir/src/hal_hum_sensor.c.o CMakeFiles/hal_hum_sensor_lib.dir/cfg/hal_hum_sensor_cfg.c.o
+/usr/bin/ranlib libhal_hum_sensor_lib.a

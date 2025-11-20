@@ -4,6 +4,7 @@
 /* App */
 #include "fan_controller.h"
 #include "light_controller.h"
+#include "alarm_controller.h"
 
 /* Middleware */
 #include "interfaces.h"
@@ -24,6 +25,7 @@ int main(void)
 
     while (1)
     {
+        alarm_controller_update();
         fan_controller_update();
         light_controller_update();
 

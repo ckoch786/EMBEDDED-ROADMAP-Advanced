@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.compilerPath": "/home/ckoch/github.com/ckoch786/EMBEDDED-ROADMAP-Advanced/modular-firmware-architecture/code/middleware/CMakeLists.txt",
+    "files.associations": {
+        "hal_buzzer.h": "c",
+        "hal_display.h": "c",
+        "hal_led.h": "c"
+    }
+}
