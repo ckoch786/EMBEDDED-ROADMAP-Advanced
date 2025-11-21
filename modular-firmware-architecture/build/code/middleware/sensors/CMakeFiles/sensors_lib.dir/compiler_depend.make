@@ -24,6 +24,7 @@ code/middleware/sensors/CMakeFiles/sensors_lib.dir/cfg/sensors_cfg.c.o: ../code/
   /usr/include/x86_64-linux-gnu/bits/wchar.h \
   /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
   /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  ../code/drivers/hal_hum_sensor/include/hal_hum_sensor.h \
   ../code/drivers/hal_ldr/include/hal_ldr.h \
   /usr/include/stdio.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
@@ -79,6 +80,10 @@ code/middleware/sensors/CMakeFiles/sensors_lib.dir/src/sensors.c.o: ../code/midd
 /usr/include/x86_64-linux-gnu/bits/floatn.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
 /usr/include/features-time64.h:
 
@@ -138,6 +143,8 @@ code/middleware/sensors/CMakeFiles/sensors_lib.dir/src/sensors.c.o: ../code/midd
 
 /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
 
+../code/drivers/hal_hum_sensor/include/hal_hum_sensor.h:
+
 /usr/include/stdio.h:
 
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
@@ -145,7 +152,3 @@ code/middleware/sensors/CMakeFiles/sensors_lib.dir/src/sensors.c.o: ../code/midd
 /usr/include/stdint.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:

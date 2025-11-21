@@ -1,36 +1,7 @@
 System boot OK
-Temperature: 35.81 C
-[FAN] TEMP=35.81 | STATE=ON
-Light: 23.6 %
-[LIGHT] LUX=23.6 | STATE=ON
-System boot OK
-Temperature: 35.81 C
-[FAN] TEMP=35.81 | STATE=ON
-Light: 23.6 %
-[LIGHT] LUX=23.6 | STATE=ON
-System boot OK
-Temperature: 35.81 C
-[FAN] TEMP=35.81 | STATE=ON
-Light: 23.6 %
-[LIGHT] LUX=23.6 | STATE=ON
-System boot OK
-Humidity: -999.00 %
-[ALARM] HUM=-999.00 <= 70.00 | STATE=OFF
-Temperature: 35.81 C
-[FAN] TEMP=35.81 | STATE=ON
-Light: 23.6 %
-[LIGHT] LUX=23.6 | STATE=ON
-System boot OK
-Humidity: -999.00 %
-[ALARM] HUM=-999.00 <= 70.00 | STATE=OFF
-Temperature: 35.81 C
-[FAN] TEMP=35.81 | STATE=ON
-Light: 23.6 %
-[LIGHT] LUX=23.6 | STATE=ON
-System boot OK
-Humidity: -999.00 %
-[ALARM] HUM=-999.00 <= 70.00 | STATE=OFF
-Temperature: 35.81 C
-[FAN] TEMP=35.81 | STATE=ON
-Light: 23.6 %
-[LIGHT] LUX=23.6 | STATE=ON
+Humidity: 163.31 %
+[ALARM] HUM=163.31 > 70.00 | STATE=ON
+Temperature: 20.81 C
+[FAN] TEMP=20.81 | STATE=OFF
+Light: 52.6 %
+[LIGHT] LUX=52.6 | STATE=OFF

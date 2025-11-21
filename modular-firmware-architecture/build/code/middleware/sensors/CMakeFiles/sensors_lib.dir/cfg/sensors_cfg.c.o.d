@@ -20,6 +20,7 @@ code/middleware/sensors/CMakeFiles/sensors_lib.dir/cfg/sensors_cfg.c.o: \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+ /app/code/drivers/hal_hum_sensor/include/hal_hum_sensor.h \
  /app/code/drivers/hal_ldr/include/hal_ldr.h /usr/include/stdio.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
