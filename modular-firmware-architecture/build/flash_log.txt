@@ -1,7 +1,0 @@
-System boot OK
-Humidity: 163.31 %
-[ALARM] HUM=163.31 > 70.00 | STATE=ON
-Temperature: 20.81 C
-[FAN] TEMP=20.81 | STATE=OFF
-Light: 52.6 %
-[LIGHT] LUX=52.6 | STATE=OFF

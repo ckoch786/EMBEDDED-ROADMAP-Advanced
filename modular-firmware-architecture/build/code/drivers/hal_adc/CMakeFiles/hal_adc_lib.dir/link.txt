@@ -1,2 +1,0 @@
-/usr/bin/ar qc libhal_adc_lib.a CMakeFiles/hal_adc_lib.dir/src/hal_adc.c.o CMakeFiles/hal_adc_lib.dir/cfg/hal_adc_cfg.c.o
-/usr/bin/ranlib libhal_adc_lib.a

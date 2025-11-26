@@ -1,2 +1,0 @@
-/usr/bin/ar qc libhal_ldr_lib.a CMakeFiles/hal_ldr_lib.dir/src/hal_ldr.c.o CMakeFiles/hal_ldr_lib.dir/cfg/hal_ldr_cfg.c.o
-/usr/bin/ranlib libhal_ldr_lib.a

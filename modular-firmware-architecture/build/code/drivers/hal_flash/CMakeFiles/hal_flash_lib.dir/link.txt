@@ -1,2 +1,0 @@
-/usr/bin/ar qc libhal_flash_lib.a CMakeFiles/hal_flash_lib.dir/src/hal_flash.c.o CMakeFiles/hal_flash_lib.dir/cfg/hal_flash_cfg.c.o
-/usr/bin/ranlib libhal_flash_lib.a

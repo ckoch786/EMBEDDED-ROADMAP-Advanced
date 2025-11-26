@@ -1,2 +1,0 @@
-/usr/bin/ar qc libhal_fan_lib.a CMakeFiles/hal_fan_lib.dir/src/hal_fan.c.o CMakeFiles/hal_fan_lib.dir/cfg/hal_fan_cfg.c.o
-/usr/bin/ranlib libhal_fan_lib.a

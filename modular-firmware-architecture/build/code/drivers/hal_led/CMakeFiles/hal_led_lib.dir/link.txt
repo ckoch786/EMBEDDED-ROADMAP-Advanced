@@ -1,2 +1,0 @@
-/usr/bin/ar qc libhal_led_lib.a CMakeFiles/hal_led_lib.dir/src/hal_led.c.o CMakeFiles/hal_led_lib.dir/cfg/hal_led_cfg.c.o
-/usr/bin/ranlib libhal_led_lib.a

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libhal_uart_lib.a CMakeFiles/hal_uart_lib.dir/src/hal_uart.c.o CMakeFiles/hal_uart_lib.dir/cfg/hal_uart_cfg.c.o
-/usr/bin/ranlib libhal_uart_lib.a

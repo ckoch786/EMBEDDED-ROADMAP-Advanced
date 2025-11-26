@@ -1,2 +1,0 @@
-/usr/bin/ar qc libalarm_controller_lib.a CMakeFiles/alarm_controller_lib.dir/src/alarm_controller.c.o
-/usr/bin/ranlib libalarm_controller_lib.a

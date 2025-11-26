@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblight_controller_lib.a CMakeFiles/light_controller_lib.dir/src/light_controller.c.o
-/usr/bin/ranlib liblight_controller_lib.a

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsensors_lib.a CMakeFiles/sensors_lib.dir/src/sensors.c.o CMakeFiles/sensors_lib.dir/cfg/sensors_cfg.c.o
-/usr/bin/ranlib libsensors_lib.a

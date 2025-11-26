@@ -5,6 +5,7 @@
 #include "fan_controller.h"
 #include "light_controller.h"
 #include "alarm_controller.h"
+#include "heater_controller.h"
 
 /* Middleware */
 #include "interfaces.h"
@@ -28,6 +29,7 @@ int main(void)
         alarm_controller_update();
         fan_controller_update();
         light_controller_update();
+        heater_controller_update();
 
 #ifdef TARGET_HOST
         break;

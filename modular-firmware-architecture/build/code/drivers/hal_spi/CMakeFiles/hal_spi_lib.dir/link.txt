@@ -1,2 +1,0 @@
-/usr/bin/ar qc libhal_spi_lib.a CMakeFiles/hal_spi_lib.dir/src/hal_spi.c.o CMakeFiles/hal_spi_lib.dir/cfg/hal_spi_cfg.c.o
-/usr/bin/ranlib libhal_spi_lib.a

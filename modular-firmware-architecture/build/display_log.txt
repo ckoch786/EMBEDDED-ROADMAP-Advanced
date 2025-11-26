@@ -1,4 +1,0 @@
-System boot OK
-Humidity: 163.31 %
-Temperature: 20.81 C
-Light: 52.6 %
